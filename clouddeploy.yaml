@@ -16,4 +16,4 @@ metadata:
  name: qsprod
 description: production cluster
 gke:
- cluster: projects/gkemedium/locations/us-central1/clusters/cluster-1
+ cluster: projects/cogent-mark-388017/locations/us-central1/clusters/my-first-gke-cluster
